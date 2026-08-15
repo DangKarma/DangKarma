@@ -1,1 +1,1 @@
-1. Task Tracker CLI
+1. Clothing Store Website, POS and Online Store
